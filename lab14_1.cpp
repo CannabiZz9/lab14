@@ -17,3 +17,7 @@ int main(){
     cout << "\nMin = " << B[5];
     return 0;
 }
+
+void stat(const double X[],int N,double Y[]){
+
+}
